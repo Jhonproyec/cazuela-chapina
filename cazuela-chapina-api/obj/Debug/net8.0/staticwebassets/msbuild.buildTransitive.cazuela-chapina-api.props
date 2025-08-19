@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\cazuela-chapina-api.props" />
+</Project>
